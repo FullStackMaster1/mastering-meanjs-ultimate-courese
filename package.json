@@ -46,7 +46,7 @@
     "helmet": "^4.2.0",
     "http-errors": "^1.8.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.10.13",
+    "mongoose": "^5.13.15",
     "morgan": "^1.10.0",
     "node-pre-gyp": "^0.16.0",
     "passport": "^0.4.1",
